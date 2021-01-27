@@ -1,0 +1,9 @@
+# IDE
+*.iml
+.idea
+# Init stuff
+01-elm-init/elm.json
+01-elm-init/src
+# Output
+elm-stuff
+main.js
