@@ -9,4 +9,4 @@ Das Skript ist didaktisch an den [Elm guide](https://guide.elm-lang.org/) angele
 3. [Elm Init](01-elm-init/README.md)
 4. [Syntax Basics](02-syntax-basics/README.md)
 5. [Interaction Basics](03-interaction-basics/README.md)
-6. [Advanced Concepts](04-advanced-concepts/README.md)
+6. [Patterns and Effects](04-patterns-and-effects/README.md)
